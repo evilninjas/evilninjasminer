@@ -1,5 +1,6 @@
 # Trails Instructions
-*Tutorial will be updated in future*
+
+> Tutorial will be updated in future
 
 ### Getting started
 
@@ -10,7 +11,7 @@ Done
 /trailsid - set specific trails with command 
 Premissions can be found on plugin page **ALSO CONFIG WITH EXPLANATIONS THERE**
 
-*Then more options you use then more it load server. Default config maximum optimized!*
+> Then more options you use then more it load server. Default config maximum optimized!
 
 ### Why SuperTrails? Spigot have a lot of other trail plugins
 
@@ -20,10 +21,10 @@ Premissions can be found on plugin page **ALSO CONFIG WITH EXPLANATIONS THERE**
 - Plugin have unique features that can't be found in any other trail plugin 
 - Plugin exists more than two years at this moment. And if you look at
    plugin history you will see plugin getting better step by step. It was 
-     started as the small, simple project that I made after month java 
-     learning to test my skills here was only 12 trails and only a few 
-     options. Now this plugin uses big networks and some YouTubers on their 
-     servers. 
+  started as the small, simple project that I made after month java 
+  learning to test my skills here was only 12 trails and only a few 
+  options. Now this plugin uses big networks and some YouTubers on their 
+  servers. 
 - Unique Trails
 - Still in development, it's mean you may suggest any your idea (But only I decide which ideas will be added)
 - Actually free. But if you want... you always can donate to dev to support future development ^_^
@@ -70,7 +71,7 @@ One to open boxes (by default 1 for every one) another to select trails that the
 Allow to players open some additional boxes when event is enabled 
 /supertrails event   - When time will end players won't be able to open additional boxes
 
-*Timer displays only for player who started event !*
+> Timer displays only for player who started event ! 
 
 ### Modes
 
@@ -83,7 +84,7 @@ Enable mode changer in config
 Then reload server 
 In particle trails menu you will can open mode changer menu 
 
-*Few permissions requred! trail.modemenu - Allow to see and open mode menu, trail.mode.circle - Allow use circle mode, trail.mode.nn - Allow to use NN mode*
+> Few permissions requred! trail.modemenu - Allow to see and open mode menu, trail.mode.circle - Allow use circle mode, trail.mode.nn - Allow to use NN mode
 
 ### Remove trail(s) with command
 
@@ -102,17 +103,30 @@ This text will be added to item lore if player have premission(ITA) or if not (I
 
 ### Select block\rain trails using command
 
-`/trailsid
-Block_Rainbow
-Block_Flower
+`/trailsid`
+
+Block_Rainbow 
+
+Block_Flower 
+
 Block_Carpet
-Block_Redstone
-Block_Wheat
-Block_Ore
-Block_Clay
-========
-Rain_Tear
-Rain_Blood
-Rain_Dia
-Rain_Wart
-Rain_Gold `
+
+Block_Redstone 
+
+Block_Wheat 
+
+Block_Ore 
+
+Block_Clay 
+
+======== 
+
+Rain_Tear 
+
+Rain_Blood 
+
+Rain_Dia 
+
+Rain_Wart 
+
+Rain_Gold 
