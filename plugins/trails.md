@@ -102,17 +102,18 @@ This text will be added to item lore if player have premission(ITA) or if not (I
 
 ### Select block\rain trails using command
 
-/trailsid 
-Block_Rainbow 
-Block_Flower 
-Block_Carpet 
-Block_Redstone 
-Block_Wheat 
-Block_Ore 
-Block_Clay 
-======== 
-Rain_Tear 
-Rain_Blood 
-Rain_Dia 
-Rain_Wart 
+
+/trailsid
+Block_Rainbow
+Block_Flower
+Block_Carpet
+Block_Redstone
+Block_Wheat
+Block_Ore
+Block_Clay
+========
+Rain_Tear
+Rain_Blood
+Rain_Dia
+Rain_Wart
 Rain_Gold 
