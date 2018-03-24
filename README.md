@@ -1,12 +1,10 @@
 # Welcome
 
-Here you will find different information about our server, plugins, and worlds. You will also find information about what commands can be done and what can't be done. 
+Here we have different information about our server, plugins, and worlds. We also have information about what commands are useful and what is not helpful.
 
 ## Welcome to Evil Ninjas Minecraft Information
-We offer plots, protection, creativity, and ranks. Each player will be able to claim their land and protect it from others. Everyone will also be able to earn levels as you progress through the adventures he or she goes on. We offer economy for our players as well as shops.
 
-We are the Evil Ninjas where we build uniquely in Minecraft. We do not have a set style. Our style is so unique that you will want to join in on the fun. We allow our miners to build as they imagine. What they dream is what they produce.
+Back in 1800, Miners were getting bored with mining. The news spread through the villages near the borders of Kawa.Kawa citizens got together to come up with ideas on how to make building fun. All the citizens gave ideas, but all have failed to work. Although, this was until Evil Ninjas came along. Evil Ninjas were from the Hara Mountains. In Hara, the mountains were so harsh to build on that it took skills to develop. Evil Ninjas found ways to keep creating fun as they enjoyed to design. Hara structures were built along the mountains using all resources available near the village.
 
-Our building resources allow our members to create anything they can dream as long as we have the material. Evil Ninjas are helping to build a better Minecraft. We are here to provide resources to help you make what you imagine.
+After hearing the news, Evil Ninjas embarked on the journey to help the miners find fun in mining. Evil Ninjas came with all tools, materials, and members to teach the miners skills, humor, and imagination. The ninjas always believed in: Creativity is endless as long as you allow your mind to be free. They taught this to the miners on a daily basis. They would start with a small building while moving up to more significant structures. In the end, Evil Ninjas have given miners the ability to think of new structures that kept them entertained.
 
-We are a community of builders. Our mission is to provide a friendly-oriented server. Creativity has no limits as long as the imagination is active. We offer the ability for our miners to build freely, the ability to claim land, and the ability to deny or allow other members onto their properties. We also offer commands that can help with building, ranks are earned or can buy, and Staff is always around when needing help.
