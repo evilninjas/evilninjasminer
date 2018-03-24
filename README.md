@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 
 Here you will find different information about our server, plugins, and worlds. You will also find information about what commands can be done and what can't be done. 
 
